@@ -1,6 +1,5 @@
 # Install Guide
-Please install vosk API and python for your distro. Before anything else.
-[![Packaging status](https://repology.org/badge/vertical-allrepos/vosk-api.svg)](https://repology.org/project/vosk-api/versions)
+Please install vosk [API](https://repology.org/project/vosk-api/versions) and python for your distro. Before anything else.
 
 ```
 git clone https://github.com/Tahosol/wakeup-for-freyja
